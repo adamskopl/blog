@@ -1,6 +1,7 @@
 # Adam Skobodziński Blog :orange_book:
 
-Welcome to my blog. Posts are published as GitHub issues. 
+Welcome to my blog. Posts are published as GitHub issues.
+
 Have a nice lecture and leave a comment, if You want to!
 
 * [2016-03-23 Cubicforest: Using Tiled](https://github.com/adamskopl/blog/issues/1)
