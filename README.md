@@ -1,0 +1,2 @@
+# blog
+Adam Skobodziński blog
