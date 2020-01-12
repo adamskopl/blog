@@ -12,5 +12,6 @@ Welcome to my blog. Posts are published as GitHub issues. Comments welcomed!
 * [2016-03-23 Cubicforest: Using Tiled](https://github.com/adamskopl/blog/issues/1)
 * [2015-05-25 SafeDrive Project](https://github.com/adamskopl/blog/issues/10)
 * [2015-01-02 Buildings Editor](https://github.com/adamskopl/blog/issues/4)
+* [2015-12-23 Tangbang](https://github.com/adamskopl/blog/issues/11)
 
 <a class="footer-link" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencja Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png"></a>
