@@ -4,6 +4,7 @@ Welcome to my blog. Posts are published as GitHub issues. Comments welcomed!
 
 * [2017-11-27 Emacs/Spacemacs for Javascript](https://github.com/adamskopl/blog/issues/2)
 * [2017-04-05 A Dive Into the Python Code](https://github.com/adamskopl/blog/issues/3)
+* [2017-03-21 Cubicforest Models](https://github.com/adamskopl/blog/issues/6)
 * [2016-04-14 Collisions Trouble](https://github.com/adamskopl/blog/issues/5)
 * [2016-03-23 Cubicforest: Using Tiled](https://github.com/adamskopl/blog/issues/1)
 * [2015-01-02 Buildings Editor](https://github.com/adamskopl/blog/issues/4)
