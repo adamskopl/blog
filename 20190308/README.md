@@ -1,4 +1,4 @@
-# Tutorial: Writing Chat App in Vue.js and Socket.io
+# Tutorial series: Writing Chat App in Vue.js and Socket.io
 
 ## Part 1
 <a href="https://www.youtube.com/watch?v=T_owk9nnEEU"><img src="https://i.ytimg.com/an_webp/T_owk9nnEEU/mqdefault_6s.webp?du=3000&sqp=CPuo7PAF&rs=AOn4CLA-AoCHuF6DtQGGW5r0E_h8eos2BA"></a>
