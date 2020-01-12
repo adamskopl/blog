@@ -1,8 +1,8 @@
 # SafeDrive Project
 
-A project written in Javascript with a Phaser framework http://http://phaser.io/.
+The project written in Javascript with the Phaser framework http://http://phaser.io/.
 
-A presentation is showing dangerous/illegal traffic situation according to the
+The presentation is showing dangerous/illegal traffic situation according to the
 Polish traffic law.
 
 Project is published here: http://skobo.pl/safedrive
