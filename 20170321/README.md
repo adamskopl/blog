@@ -27,7 +27,7 @@ I’ve came up with a simple idea of exporting predefined colors. I didn’t suc
 
 ## 2d sprites
 
-<img src="./img/01.png" width="75%">
+<img src="./img/01.png" width=25%>
 
 First the 3d positions are sorted into 4 groups: for every angle of the future 2d sprite’s model. Depending on the angle, the group starts with the cube which is farthest (from the camera) and ends with the nearest one. 3d Positions are then mapped into isometric ones and painted onto texture one by one.
 
@@ -37,10 +37,10 @@ From the bottom layer of the model to the top. After that the sprite is saved: t
 
 Blender models:
 
-<img src="./img/02.jpg" width="75%">
-<img src="./img/03.jpg" width="75%">
+<img src="./img/02.jpg" width="25%">
+<img src="./img/03.jpg" width="25%">
 
 Rendered sprites:
 
-<img src="./img/04.png" width="75%">
-<img src="./img/05.png" width="75%">
+<img src="./img/04.png" width="25%">
+<img src="./img/05.png" width="25%">
