@@ -6,6 +6,7 @@ Welcome to my blog. Posts are published as GitHub issues. Comments welcomed!
 * [2017-04-05 A Dive Into the Python Code](https://github.com/adamskopl/blog/issues/3)
 * [2017-03-21 Cubicforest Models](https://github.com/adamskopl/blog/issues/6)
 * [2015-01-05 Cubicforest: Progress Report and Gameplay Rules](https://github.com/adamskopl/blog/issues/7)
+* [2016-04-10 RunPigsRun: About the Progress](https://github.com/adamskopl/blog/issues/8)
 * [2016-04-14 Collisions Trouble](https://github.com/adamskopl/blog/issues/5)
 * [2016-03-23 Cubicforest: Using Tiled](https://github.com/adamskopl/blog/issues/1)
 * [2015-01-02 Buildings Editor](https://github.com/adamskopl/blog/issues/4)
