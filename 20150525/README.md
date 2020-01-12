@@ -16,4 +16,4 @@ Just start clicking.
 
 (it’s best to test it here): http://skobo.pl/safedrive
 
-<iframecode src="http://skobo.pl/safedrive/index.html" height="500">
+<iframe src="http://skobo.pl/safedrive/index.html" height="500"></iframe>
