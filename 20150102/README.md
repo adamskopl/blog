@@ -8,8 +8,10 @@ Buildings data is created by defining floor sectors, which can be enriched with 
 
 Program’s mascot:
 
-![pig](./pig.jpg)
+<img src="./pig.jpg">
 
 Video presenting designing process (should be wathced in 720p HD):
 
-[![https://www.youtube.com/watch?v=xTtRqWRhvco](https://i.ytimg.com/vi/xTtRqWRhvco/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCm3DUoy8s1D3QUC31IYZu757Wg9g)](https://www.youtube.com/watch?v=xTtRqWRhvco)
+<a href="https://www.youtube.com/watch?v=xTtRqWRhvco">
+<img src="https://i.ytimg.com/vi/xTtRqWRhvco/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCm3DUoy8s1D3QUC31IYZu757Wg9g)](https://www.youtube.com/watch?v=xTtRqWRhvco">
+</a>
