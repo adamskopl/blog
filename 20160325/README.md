@@ -1,6 +1,6 @@
 # RunPigsRun: Handling Collisions
 
-Collisions in RunPigsRun
+## Collisions in RunPigsRun
 
 One of the things that gives me some confidence about finishing this project is the form of its gameplay. Objects are moved from field to field in a predictable way. Collisions are checked after all the objects finish their movement, which simplifies the work.
 
