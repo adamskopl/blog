@@ -6,17 +6,16 @@ One of the things that gives me some confidence about finishing this project is 
 
 Which collisions are already handled?
 
-
 1. Hero + Bouncer
-  - changes object’s speed
-  - plays scaling animation for the bouncer
+  * changes object’s speed
+  * plays scaling animation for the bouncer
 2. Hero + Void field; Hero + Water field
-  - removes hero from the game
-  - reports game’s loss
-  - plays field’s scale animation
+  * removes hero from the game
+  * reports game’s loss
+  * plays field’s scale animation
 3. Hero + Exit
-  - removes hero from the game
-  - reports that hero was saved
+  * removes hero from the game
+  * reports that hero was saved
 
 ## How it’s implemented
 
