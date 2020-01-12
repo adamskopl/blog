@@ -9,4 +9,4 @@ Covered topics: generating OpenGL graphics; using SDL for input, window system a
 https://github.com/adamskopl/tangbang
 
 
-<a href="https://www.youtube.com/watch?v=M03VRuG0qH0"><img src=https://i.ytimg.com/vi/M03VRuG0qH0/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAtG9-_f9wcOGKGmuhpcXCcm4lYMw></a>
+<a href="https://www.youtube.com/watch?v=M03VRuG0qH0"><img src="https://i.ytimg.com/vi/M03VRuG0qH0/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAtG9-_f9wcOGKGmuhpcXCcm4lYMw"></a>
