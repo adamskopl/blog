@@ -2,6 +2,7 @@
 
 Welcome to my blog. Posts are published as GitHub issues. Comments welcomed!
 
+* [2017-11-28 Code Review: MiningGame part 1, part 2](https://github.com/adamskopl/blog/issues/12)
 * [2017-11-27 Emacs/Spacemacs for Javascript](https://github.com/adamskopl/blog/issues/2)
 * [2017-04-05 A Dive Into the Python Code](https://github.com/adamskopl/blog/issues/3)
 * [2017-03-21 Cubicforest Models](https://github.com/adamskopl/blog/issues/6)
