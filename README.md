@@ -1,8 +1,6 @@
 # Adam Skobodziński Blog :orange_book:
 
-Welcome to my blog. Posts are published as GitHub issues.
-
-Have a nice lecture and leave a comment, if You want to!
+Welcome to my blog. Posts are published as GitHub issues. Comments welcomed!
 
 * [2017-11-27 Emacs/Spacemacs for Javascript](https://github.com/adamskopl/blog/issues/2)
 * [2016-03-23 Cubicforest: Using Tiled](https://github.com/adamskopl/blog/issues/1)
