@@ -13,7 +13,7 @@
 <a href="https://www.youtube.com/watch?v=jXxRaUvfGxc"><img src="https://i.ytimg.com/an_webp/jXxRaUvfGxc/mqdefault_6s.webp?du=3000&sqp=CMuK7PAF&rs=AOn4CLCAWbYrWA0irvxMlyI5nZaSjGpb2w"></a>
 
 ## Part 5
-<a href="https://www.youtube.com/watch?v=WaQ2vvEXu4w"><img src="https://i.ytimg.com/an_webp/WaQ2vvEXu4w/mqdefault_6s.webp?du=3000&sqp=CLSx7PAF&rs=AOn4CLBkXkGy_BAq_V30GM-mRbIFAjR9Fw"></a>
+<a href="https://www.youtube.com/watch?v=WaQ2vvEXu4w"><img src="https://i.ytimg.com/vi/WaQ2vvEXu4w/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB8XYvPH5S0HO1YZ0eLPxvXMeuqGQ"></a>
 
 ## Part 6
-<a href="https://www.youtube.com/watch?v=k6HTYmsCPOo"><img src="https://i.ytimg.com/an_webp/k6HTYmsCPOo/mqdefault_6s.webp?du=3000&sqp=CKjx6_AF&rs=AOn4CLC4ofQxHDCuKbOmFXhtp245iv3RAQ"></a>
+<a href="https://www.youtube.com/watch?v=k6HTYmsCPOo"><img src="https://i.ytimg.com/vi/k6HTYmsCPOo/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLA0LRj_oSwKEVbJ9b6HGv4igvwDBA"></a>
