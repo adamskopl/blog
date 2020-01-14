@@ -1,16 +1,16 @@
 # Tutorial series: Writing Chat App in Vue.js and Socket.io
 
 ## Part 1
-<a href="https://www.youtube.com/watch?v=T_owk9nnEEU"><img src="https://i.ytimg.com/an_webp/T_owk9nnEEU/mqdefault_6s.webp?du=3000&sqp=CPuo7PAF&rs=AOn4CLA-AoCHuF6DtQGGW5r0E_h8eos2BA"></a>
+<a href="https://www.youtube.com/watch?v=T_owk9nnEEU"><img src="https://i.ytimg.com/vi/T_owk9nnEEU/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCZtzJ9LSXjEn6HAb5hJQhZi3yISw"></a>
 
 ## Part 2
-<a href="https://www.youtube.com/watch?v=uOJhVxcEVYY"><img src="https://i.ytimg.com/an_webp/uOJhVxcEVYY/mqdefault_6s.webp?du=3000&sqp=CKql7PAF&rs=AOn4CLBXjMMaYrjCH2ykeZIrmJYA5fp1cA"></a>
+<a href="https://www.youtube.com/watch?v=uOJhVxcEVYY"><img src="https://i.ytimg.com/vi/uOJhVxcEVYY/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBD5fIK2s3_XWnIy7dKk7x4r56yHQ"></a>
 
 ## Part 3
-<a href="https://www.youtube.com/watch?v=CLt9MkZvLiE"><img src="https://i.ytimg.com/an_webp/CLt9MkZvLiE/mqdefault_6s.webp?du=3000&sqp=CMuI7PAF&rs=AOn4CLD0MqfnVyOQaxGWtIE9BRWCAzUIFg"></a>
+<a href="https://www.youtube.com/watch?v=CLt9MkZvLiE"><img src="https://i.ytimg.com/vi/CLt9MkZvLiE/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB252HQPEi_SRUlgb9WDF1I_7JYGA"></a>
 
 ## Part 4
-<a href="https://www.youtube.com/watch?v=jXxRaUvfGxc"><img src="https://i.ytimg.com/an_webp/jXxRaUvfGxc/mqdefault_6s.webp?du=3000&sqp=CMuK7PAF&rs=AOn4CLCAWbYrWA0irvxMlyI5nZaSjGpb2w"></a>
+<a href="https://www.youtube.com/watch?v=jXxRaUvfGxc"><img src="https://i.ytimg.com/vi/jXxRaUvfGxc/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB1DKYMmctnMDiY3_HRFFB3S_K9TA"></a>
 
 ## Part 5
 <a href="https://www.youtube.com/watch?v=WaQ2vvEXu4w"><img src="https://i.ytimg.com/vi/WaQ2vvEXu4w/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB8XYvPH5S0HO1YZ0eLPxvXMeuqGQ"></a>
