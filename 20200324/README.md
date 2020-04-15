@@ -9,11 +9,13 @@ Resulting software and it's source code will be available publicly. Ongoing work
 reports will be published on this blog.
 
 ## The project
+### Result
 
-Goal of the MCD is to allow a user to choose some content (e.g. an image, video
-or external webpage) and then display that content's chosen areas in multiple
-web browsers run on different devices. A good example could be a restaurant
-menu[1]:
+Goal of the MCD is to allow a user to then display some content's (e.g. an
+image, video or external webpage) chosen areas in multiple web browsers run on
+different devices.
+
+A good example could be a restaurant menu[1]:
 
 <img src="./img/bobby-sexappear.jpg" width=50%>
 
@@ -23,7 +25,18 @@ section and smartphones could do the same with other menu's areas.
 
 <img src="./img/menu-basic-display.png" width=100%>
 
-(ANOTHER CASE: stock market)
+Another use case could involve displaying whole content using multiple devices:
+
+<img src="./img/mm.png" width=100%>
+
+(displaying picture with multiple devices)
+
+..
+
+
+(summary: either displaying sections or creating bigger display)
+
+### Usage
 
 (set from the editor)
 
