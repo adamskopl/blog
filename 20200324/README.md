@@ -60,8 +60,7 @@ to create desired setup by interacting both with an editor and target devices.
    areas of the content.
 5. After the setup, editor or any of the devices' browsers can be closed and
    opened again. The once created content and devices setup will be restored for
-   every device. It will happen each time, the given browser will open project's
-   URL.
+   every device.
 
 ## Issues
 ### Differences in physical properties
@@ -70,8 +69,8 @@ Devices have some differences causing some problems:
 - physical dimensions 
 - [pixel ratio](https://developer.mozilla.org/en-US/docs/Web/API/Window/devicePixelRatio)
 
-Event if screens have the same physical width and height, the different pixel
-displaying characteristics, may cause the same image to be displayed with
+Even if screens have the same physical width and height, the different pixel
+displaying characteristics may cause the same image to be displayed with
 different dimensions. There's no way to programmatically get rid of that
 problem. Manual calibration will be necessary, but thankfully only once for each
 device (software will store calibration settings).
