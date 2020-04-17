@@ -1,7 +1,7 @@
 # "Multiscreen Content Display" Project
 ## Introduction
 
-An aim of this post, is to present an idea for a "Multiscreen Content Display"
+An aim of this post, is to present an idea for the "Multiscreen Content Display"
 software project.
 
 Resulting software and it's source code will be available publicly. Ongoing work
@@ -54,7 +54,7 @@ to create desired setup by interacting both with an editor and target devices.
    created.
 2. Content is chosen. It could be an image or a web page.
 3. User opens project's web link using target devices' browsers. At this stage
-   browsers display chosen content, but they need and adjustment.
+   browsers display chosen content, but they need an adjustment.
 4. Devices are visualized in the editor. User modify their positions and size
    relatively to the content, so that physical devices will display desired
    areas of the content.
