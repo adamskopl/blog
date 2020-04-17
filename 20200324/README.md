@@ -7,8 +7,7 @@ software project.
 Resulting software and it's source code will be available publicly. Ongoing work
 reports will be published on this blog.
 
-## The project
-### Goal
+## Goal
 
 Goal of the MCD is to allow a user to display content's (e.g. an image or
 external webpage) chosen areas in multiple web browsers run on different
@@ -31,8 +30,8 @@ multiple devices:
 <img src="./img/mm.png" width=100%>
 [2]
 
-### Usage
-#### Editor
+## Usage
+### Editor
 
 The project will include an editor, to which target devices (browsers) will
 connect. Connected devices will be visualized on the chosen content.
@@ -44,12 +43,12 @@ Editor will allow the user to:
 
 Adjusting devices' properties (position, scale) relative to the content, will be
 also possible through each browser involved. In that way, user will be allowed
-to create desired setup by interacting with an editor or target devices.
+to create desired setup by interacting both with an editor and target devices.
 
 <img src="./img/editor.png">
 [3]
 
-#### Setup
+## Setup
 
 1. Using the editor, user creates a new display project. Project's web link is
    created.
@@ -61,7 +60,8 @@ to create desired setup by interacting with an editor or target devices.
    areas of the content.
 5. After the setup, editor or any of the devices' browsers can be closed and
    opened again. The once created content and devices setup will be restored for
-   every device.
+   every device. It will happen each time, the given browser will open project's
+   URL.
 
 ## Issues
 ### Differences in physical properties
@@ -71,17 +71,17 @@ Devices have some differences causing some problems:
 - [pixel ratio](https://developer.mozilla.org/en-US/docs/Web/API/Window/devicePixelRatio)
 
 Event if screens have the same physical width and height, the different pixel
-displaying characteristics may cause the same image to be displayed with
-different dimensions There's no way to programmatically get rid of that problem.
-It will have to be done manually, but such calibration will have do be done only
-once.
+displaying characteristics, may cause the same image to be displayed with
+different dimensions. There's no way to programmatically get rid of that
+problem. Manual calibration will be necessary, but thankfully only once for each
+device (software will store calibration settings).
 
 ### Synchronization
 
 Synchronization between the editor and devices will be needed. Examples:
-- different content is chosen, devices should refresh
-- position of a device is changed in the editor: device's display should be
-  adjusted
+- Different content is chosen: devices should display it.
+- Position of a device is changed in the editor: device should display a
+  different fragment.
 
 As the project is web based, a bidirectional communication between browsers and
 the server is needed.
@@ -91,7 +91,7 @@ the server is needed.
 "Multiscreen Content Display" will allow to display a chosen content using
 multiple devices. With the ability of choosing positions of content's fragments
 and their scale, different effects could be achieved. Arranging devices in
-different configurations could either expose content's fragments or allow to
+different configurations, could either expose content's fragments or allow to
 display content's fragments using multiple devices, thus creating bigger display
 surfaces.
 
