@@ -16,18 +16,18 @@ created by the user will be saved and easily restored.
 
 A good example could be a restaurant menu[1]:
 
-<img src="./img/bobby-sexappear.jpg">
+<img src="https://raw.githubusercontent.com/adamskopl/blog/posts/20200324/img/bobby-sexappear.jpg">
 
 User will be able to display menu's different sections on different devices'
 browsers. For example tablet with a running browser could display "VEGE BURGERS"
 section and smartphones could do the same with other menu's areas.
 
-<img src="./img/menu-basic-display.png">
+<img src="https://raw.githubusercontent.com/adamskopl/blog/posts/20200324/img/menu-basic-display.png">
 
 Another use case could involve displaying whole content on an area created by
 multiple devices:
 
-<img src="./img/mm.png" width=100%>
+<img src="https://raw.githubusercontent.com/adamskopl/blog/posts/20200324/img/mm.png" width=100%>
 [2]
 
 ## Usage
@@ -45,7 +45,7 @@ Adjusting devices' properties (position, scale) relative to the content, will be
 also possible through each browser involved. In that way, user will be allowed
 to create desired setup by interacting both with an editor and target devices.
 
-<img src="./img/editor.png">
+<img src="https://raw.githubusercontent.com/adamskopl/blog/posts/20200324/img/editor.png">
 [3]
 
 ## Setup
@@ -55,25 +55,24 @@ to create desired setup by interacting both with an editor and target devices.
 2. Content is chosen. It could be an image or a web page.
 3. User opens project's web link using target devices' browsers. At this stage
    browsers display chosen content, but they need an adjustment.
-4. Devices are visualized in the editor. User modify their positions and size
-   relatively to the content, so that physical devices will display desired
-   areas of the content.
-5. After the setup, editor or any of the devices' browsers can be closed and
-   opened again. The once created content and devices setup will be restored for
-   every device.
+4. Devices' display areas are visualized in the editor. User modify their
+   positions and size relatively to the content, so that physical devices will
+   display desired areas of the content.
+5. After the setup, editor or browser of any device can be closed and opened
+   again. The once created content and devices setup will be restored for every
+   device.
 
 ## Issues
 ### Differences in physical properties
 
-Devices have some differences causing some problems:
-- physical dimensions 
-- [pixel ratio](https://developer.mozilla.org/en-US/docs/Web/API/Window/devicePixelRatio)
-
-Even if screens have the same physical width and height, the different pixel
-displaying characteristics may cause the same image to be displayed with
-different dimensions. There's no way to programmatically get rid of that
-problem. Manual calibration will be necessary, but thankfully only once for each
-device (software will store calibration settings).
+Some differences between devices (among others physical dimensions and [pixel
+ratio](https://developer.mozilla.org/en-US/docs/Web/API/Window/devicePixelRatio))
+cause display problems. For example: even if screens have the same physical
+width and height, the different pixel displaying characteristics may cause the
+same image to be displayed with different dimensions. There's no way to
+programmatically get rid of that problem. Manual calibration will be necessary,
+but thankfully only once for each device (software will store calibration
+settings).
 
 ### Synchronization
 
