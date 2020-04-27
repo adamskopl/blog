@@ -41,7 +41,7 @@ the last moment for future confusion prevention.
 
 Some time ago, I've encountered the situation, when during refactoring and
 writing missing tests, the non readable code caused the need of an addition
-investigation. It was a file's 'dragover' event handler and it performed an
+investigation. It was a file's `dragover` event handler and it performed an
 initial check, for dragged file's validity, displaying either a success or an
 error. It went something like this:
 
