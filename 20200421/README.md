@@ -1,14 +1,14 @@
-# Thoughts on code readability
+<img src="https://raw.githubusercontent.com/adamskopl/blog/posts/20200421/cover.png">
 
 How big a deal code readability is?
 
-## What kind of 'readability'?
+# What kind of 'readability'?
 
 Code not readable could be, for example, a code hard to follow. Maybe because of hard to understand nested `if else` clauses. Or because of a lack of dividing code into functions, which names would be more explanatory. Such code can be understood, but requires focused analysis. Its readability can be achieved by code refactoring.
 
 But there's also another type of non-readable code. It's a code that **fails to explain what it does**.
 
-## Reasons
+# Reasons
 
 From some time I'm quite skeptical about the statement, that "one of the benefits of unit tests is code documentation". That "if you don't know 'whats' and 'whys' of the code, check unit tests for answers". Of course, securing requirements with tests is a good idea. What bothers me, is the tendency of not caring enough about a code being self-explanatory. Passing that responsibility on unit tests is one of the excuses.
 
@@ -16,7 +16,7 @@ Problem is often visible when working with legacy code. We see a fragment and it
 
 Bad code reviews also go hand in hand with producing non-readable code. From my experience, people very often only check, if variables have good names, if the solution is written accordingly to the framework's standards, or if it can be written more cleverly. They don't pay enough attention, to understand what the code does, they just want to check if it looks good. After that, code review is marked as 'accepted' and an author of a solution merges it, missing the last moment for future confusion prevention.
 
-## Example
+# Example
 
 Some time ago, I've encountered the situation, when during refactoring and writing missing tests, the non readable code caused the need of an addition investigation. It was a file's `dragover` event handler and it performed an initial validation, displaying either a success or an error. It went something like this:
 
@@ -46,7 +46,7 @@ I don't remember why, but there was a reason for that particular situation to ch
 
 Why `event.dataTransfer.items` and `event.dataTransfer.items.length` are checked? If a check fails, why the 'success' is displayed? It turned out, that [DataTransferItemList](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API/File_drag_and_drop) is not supported everywhere. More precisely (surprise, surprise) it's not supported by IE. The project required IE support, so `items` property had to be checked. Additionally `items` [could have](https://developer.mozilla.org/en-US/docs/Web/API/DataTransferItemList) length of 0. Displaying 'success' was a fallback, assuming that later parsing code would handle a file being invalid.
 
-## Improving readability
+# Improving readability
 
 So the code was not readable, because:
 - There was no `else` for `dataTransfer` check.
@@ -72,7 +72,7 @@ I refactored the code a little bit, leaving it, in my opinion, more readable:
 - code could be shorter, but I wanted to show explicitly, that `DataTransferItemList` support should be checked
 - conditions for showing success or an error are short and quick to understand
 
-## "Good grief, why there's no 'else' clause?!"
+# "Good grief, why there's no 'else' clause?!"
 
 > (...) Good grief, why there's no 'else' clause?! Maybe that's the source of the bug?
 > 
