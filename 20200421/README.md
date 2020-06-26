@@ -4,13 +4,13 @@ How big a deal code readability is?
 
 ## What kind of 'readability'?
 
-Code readability can have different definitions. It could be, for example, a code hard to follow. Maybe because of hard to understand nested `if else` clauses. Or because of a lack of dividing code into functions, which names would be more explanatory. Such code can be understood, but requires focused analysis. Its readability can be achieved by code refactoring.
+Code not readable could be, for example, a code hard to follow. Maybe because of hard to understand nested `if else` clauses. Or because of a lack of dividing code into functions, which names would be more explanatory. Such code can be understood, but requires focused analysis. Its readability can be achieved by code refactoring.
 
 But there's also another type of non-readable code. It's a code that **fails to explain what it does**.
 
 ## Reasons
 
-From some time I'm quite skeptical about the statement, that "one of the benefits of unit tests is code documentation". That "if you don't know 'whats' and 'whys' of the code, check unit tests for answers". I'm not 100% skeptic: securing requirements with tests is a good idea to some degree. Anyway: what bothers me, is the tendency of not caring enough about a code being self-explanatory. Passing that responsibility on unit tests is one of the excuses.
+From some time I'm quite skeptical about the statement, that "one of the benefits of unit tests is code documentation". That "if you don't know 'whats' and 'whys' of the code, check unit tests for answers". Of course securing requirements with tests is a good idea. What bothers me, is the tendency of not caring enough about a code being self-explanatory. Passing that responsibility on unit tests is one of the excuses.
 
 Problem is often visible when working with legacy code. We see a fragment and it's not clear, what's its purpose. So we leave it alone because we don't want to mess something up. Besides, people usually don't want to improve the code's readability in legacy code. "I don't have to understand it, someone probably had a good reason to write it". And a mysterious fragment of code lives forever happily after.
 
