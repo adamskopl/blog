@@ -2,7 +2,7 @@
 
 Welcome to my blog. Posts are published as GitHub issues. Comments welcomed!
 
-* [2020-06-26 Thoughts on code readability](https://github.com/adamskopl/blog/issues/15)
+* [2020-06-26 Code readability](https://github.com/adamskopl/blog/issues/15)
 * [2020-04-17 "Multiscreen Content Display" Project](https://github.com/adamskopl/blog/issues/14)
 * [2019-03-08 Tutorial series: Writing Chat App in Vue.js and Socket.io](https://github.com/adamskopl/blog/issues/13)
 * [2017-11-28 Code Review: MiningGame part 1, part 2](https://github.com/adamskopl/blog/issues/12)
