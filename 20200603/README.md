@@ -75,7 +75,7 @@ Array.from(document.getElementsByTagName("input")).forEach(
 
 function addEventListenerSettingThemeClass(el) {
   el.addEventListener("change", function (e) {
-    console.warn(`choice: ${e.target.id}`);
+    alert(`choice: ${e.target.id}`);
   });
 }
 ```
@@ -174,6 +174,6 @@ body.themeTwo {
 - First, we're declaring 3 themes variables with their initial values. They should be available in the whole `<body>`, hence the place of declaration. From now on, `--primaryColor`, `--secondaryColor` and `teritaryColor` can be used instead of values.
 - We're using these 3 variables in `#main` `label` and `.someBox` by using `var(--variableName)` syntax. At this point nothing is changed: we've only replaced values with variables.
 - CSS variables don't have fixed values and can be changed, as seen in the `/*COLOR THEMES SECTION*/`.
-  - `<body>` with 
+  - `<body>` combined with given theme class changes colors values used in our demo. Hence `body.themeOne` has a higher [specificity](http://www.standardista.com/css3/css-specificity/), than `body`, values from `body.themeOne` are used.
   - Notice, that to add another color theme, only a new `body.themeX` definition has to be added. No changes in original CSS and HTML required.
 - Voilà! :art:
