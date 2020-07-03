@@ -1,5 +1,7 @@
 # Color themes with CSS-variables
 
+<img src="https://raw.githubusercontent.com/adamskopl/blog/posts/20200603/cover.png">
+
 ## The problem
 
 - You're writing HTML and its default styles.
