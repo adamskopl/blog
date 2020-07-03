@@ -2,6 +2,7 @@
 
 Welcome to my blog. Posts are published as GitHub issues. Comments welcomed!
 
+* [2020-07-03 Color themes with CSS-variables](https://github.com/adamskopl/blog/issues/16)
 * [2020-06-26 Code readability](https://github.com/adamskopl/blog/issues/15)
 * [2020-04-17 "Multiscreen Content Display" Project](https://github.com/adamskopl/blog/issues/14)
 * [2019-03-08 Tutorial series: Writing Chat App in Vue.js and Socket.io](https://github.com/adamskopl/blog/issues/13)
