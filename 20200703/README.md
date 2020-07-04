@@ -48,7 +48,7 @@ body {
 - We've added the main area containing a whole space.
 - There's a red box in the center.
 - For now, there are 3 main colors: white, black, red.
-  - These will be colors that will be changed when changing color themes.
+  - These are the colors, that will be changed, when changing color themes.
 
 ### 2. Adding theme selection
 
